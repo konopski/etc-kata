@@ -2,7 +2,7 @@
 
 ## Background
 
-In `src/main/resources` you will find two data files `consumption_data.json` and `consumption_data.csv`. Both contain and identical set of data. This is;
+Here you will find two data files `consumption_data.json` and `consumption_data.csv`. Both contain and identical set of data. This is;
 
 * Electricity consumption data for 3 sensors
 * 1 reading per hour on the hour for a single day 
@@ -26,8 +26,8 @@ We would like you to;
 
 Through this exercise we're looking for the following;
 
-* Scala with clean code and an adherence to functional paradigms
+* Clean and idiomatic code with an adherence to the correct functional paradigms
 * Test Driven Development. This doesn't have to be dogmatic but we do want you to bake in quality
 * The same excellent development practices you use in your day job
-* Great communication (Dave is a junior Scala engineer pairing with you)
+* Great communication. You will be interacting with individuals of diverse skill levels
 * Feel free to use the Internet (Google, Travis or libraries / frameworks etc...) Whatever makes your life easier!
